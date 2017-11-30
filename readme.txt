@@ -1,4 +1,2 @@
-hello World
-ABCD
-adfjslfjs
-3434
+Git is a version control system.
+Git is free software.
